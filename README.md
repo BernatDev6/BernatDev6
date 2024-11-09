@@ -57,3 +57,16 @@
   &emsp;
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white">
 </p>
+
+<br>
+
+## 🛠️ Contact with me
+<br>
+
+<p>
+  <a href="https://www.linkedin.com/in/bernat-font-gin%C3%A9-07508924b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+  &emsp;
+  <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+
+
