@@ -3,8 +3,9 @@
 <br>	
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
+<br>
+
+<picture><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/></picture>
 - :school: I am a `Full Stack Developer`.
 - :trophy: GS DAW.
 - :technologist: I love programming as a solution for every `Problem`.
@@ -15,7 +16,7 @@
 
 <br>
 
-## 🛠️ My Skills
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My Skills
 <br>
 
 ### - Frontend Development
@@ -60,7 +61,7 @@
 
 <br>
 
-## 🛠️ Contact with me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">Contact with me
 <br>
 
 <p>
