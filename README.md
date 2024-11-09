@@ -61,6 +61,12 @@
 
 <br>
 
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernatDev6&langs_count=10&theme=tokyonight&layout=compact" alt="BernatDev6 :: Top Langs" />
+
+
+<br>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">Contact with me
 <br>
 
