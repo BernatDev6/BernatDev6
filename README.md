@@ -21,48 +21,40 @@
 
 ### - Frontend Development
 <p> 
-  &emsp;
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=plastic&logo=Bootstrap&logoColor=white">
-  &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  &emsp;
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  &emsp;
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=plastic&logo=Vue.js&logoColor=black">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a" alt="React">
+  <img src="https://img.shields.io/badge/vue.js-%2341B883.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 </p>
 
 ### - Backend Development
 <p> 
-  &emsp;
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23007396.svg?style=plastic&logo=php&logoColor=white">
-  &emsp;
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
-  &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
- ### - Software & Tools
-<p>
-  &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  &emsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  &emsp;
-  <img alt="AJAX" src="https://img.shields.io/badge/AJAX-%23005C99.svg?style=plastic&logo=javascript&logoColor=white">
-  &emsp;
-  <img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white">
-  &emsp;
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white">
+### - Software & Tools
+<p> 
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/AJAX-%230072C6.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX">
+  <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </p>
+
+
 
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernatDev6&langs_count=10&theme=tokyonight&layout=compact" alt="BernatDev6 :: Top Langs" />
+<p align= "center">
+  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=BernatDev6&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernatDev6&theme=react&layout=compact" />
+</p>
 
 
 <br>
