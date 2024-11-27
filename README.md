@@ -12,7 +12,7 @@
 - :student: I am currently in a master's from `advanced web development` at `NETT Digital School`.
 - :nerd_face: Always `learning new things` by myself.
 - :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE](https://portfolio-zeta-flame-24.vercel.app/).
+- :boom: You can visit [MY PORTFOLIO](https://portfolio-bernat-vue.vercel.app/).
 
 <br>
 
