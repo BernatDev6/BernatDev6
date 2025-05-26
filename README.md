@@ -45,6 +45,7 @@
 <p> 
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Redux-%764ABC00.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/AJAX-%230072C6.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX">
   <img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
